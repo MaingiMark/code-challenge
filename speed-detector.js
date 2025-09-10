@@ -13,5 +13,5 @@ function carSpeed(){
     }
     return points 
 }    
-alert(carSpeed()) // used alert to display an alert display box //
+alert(carSpeed()) // used alert to display an alert display box that will show points system or if points are deducted   //
 
