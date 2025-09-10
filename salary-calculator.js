@@ -23,4 +23,4 @@ function netSalary(){
     return netSalary //returned net salary as my output //
 
 }
-alert (netSalary()) // used alert to display a display box //
+alert (netSalary()) // used alert to display a display box that displays net salary //
