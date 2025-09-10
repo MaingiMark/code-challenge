@@ -20,7 +20,7 @@ Git clone  git@github.com:MaingiMark/code-challenge.git
 ```
 
 # Live Link
-
+https://maingimark.github.io/code-challenge/
 
 ## Technologies used
 HTML
