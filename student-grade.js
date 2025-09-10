@@ -13,4 +13,4 @@ function getGrades(){
         return 'E';
 }
 }
-alert (getGrades()) // displays an alert box to display final grades // 
+alert (getGrades()) // displays an alert box to display final students grades // 
