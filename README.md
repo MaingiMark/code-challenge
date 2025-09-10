@@ -15,12 +15,12 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone  git@github.com:MaingiMark/code-challenge.git
 
 ```
 
 # Live Link
-[Git](gh-pages link)
+
 
 ## Technologies used
 HTML
@@ -28,7 +28,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com
+github.com/MaingiMark
 
 ### License
 The content of this site is licensed under the MIT license
